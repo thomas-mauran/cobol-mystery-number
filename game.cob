@@ -16,7 +16,9 @@
           *> Attributing a random value to MYSTERY-NUMBER
            MOVE function current-date(9:8) TO SEED.
            MOVE FUNCTION NUMVAL (SEED)  to MYSTERY-NUMBER.
-
+           DISPLAY " ".
+           DISPLAY " ".
+           DISPLAY " ".
            DISPLAY "Hello, the goal of this game is pretty easy there is a mystery number between 1 and 100 ! You must find it fast.".
            DISPLAY "Your number : "
 
