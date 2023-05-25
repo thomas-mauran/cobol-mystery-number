@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Mystery number</h1>
-<img src="./readme-assets/cobol.png" alt="cobol mystery number game"/>
+<img src="./readme-assets/cobol.png" alt="cobol mystery number game" style="width: 300px"/>
 </div>
 
 ### Description
