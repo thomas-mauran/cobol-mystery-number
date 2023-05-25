@@ -1,4 +1,4 @@
 FROM esolang/cobol
 
-COPY hello_world.cob .
+COPY game.cob .
 
